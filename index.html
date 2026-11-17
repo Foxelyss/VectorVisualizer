@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" href="favicon.svg">
+	<title>Vector</title>
+</head>
+<body>
+	<div id="canvas-container">
+	</div>	
+	<div id="ui-container">
+		<div id="controls" class="panel">
+			<button id="draw-btn">Отобразить векторы</button>
+			<button id="add-vector-btn">Добавить вектор</button>
+			<button id="remove-last-vector-btn">Удалить последний</button>
+			<button id="reset-btn">на стартовою позицию</button>
+		</div>
+
+		<div id="vector-inputs-container"></div>
+
+		<div id="operations-panel" class="panel">
+			<h3>Операции</h3>
+			<button data-op="add-all">Сложение</button>
+			<button data-op="sub-all">Вычитание</button>
+			<button data-op="angle">Угол (A,B)</button>
+			<button data-op="dot">Скалярное произведения (A*B)</button>
+			<button data-op="cross">Векторного произведения (A*B)</button>
+			<button data-op="mixed">Смешанного произведение (A*(B*C))</button>
+		</div>
+
+		<div id="result-panel" class="panel">
+			<h3>Результат</h3>
+			<p id="result-text">Нажмите на операцию, чтобы увидеть результат.</p>
+		</div>
+	</div>
+	<script src="scripts/script.js" type="module"></script>
+</body>
+</html>

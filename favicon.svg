@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" xmlns:bx="https://boxy-svg.com">
+  <rect width="39.987" height="40" style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgb(211, 211, 211);" rx="7" ry="7" id="object-0"/>
+  <path style="stroke: rgb(0, 0, 0); paint-order: stroke; stroke-width: 0px; stroke-opacity: 0; fill: rgb(47, 233, 17);" d="M 19.5 2.5 H 19.5 L 20.5 3.5 V 21.5 L 19.5 22.5 H 19.5 L 18.5 21.5 V 3.5 L 19.5 2.5 Z" bx:shape="rect 18.5 2.5 2 20 1 1 1 2@f09ab16e" id="object-1"/>
+  <path style="stroke: rgb(0, 0, 0); paint-order: stroke; stroke-width: 0px; stroke-opacity: 0; fill: rgb(226, 18, 29); transform-origin: 32.664px 27.782px 0px;" transform="matrix(-0.500001, 0.866025, -0.866025, -0.500001, -5.00376, 0.584026)" d="M 32.664 17.782 H 32.664 L 33.664 18.782 V 36.782 L 32.664 37.782 H 32.664 L 31.664 36.782 V 18.782 L 32.664 17.782 Z" bx:shape="rect 31.664 17.782 2 20 1 1 1 2@6e5996d1" id="object-2"/>
+  <path style="stroke: rgb(0, 0, 0); paint-order: stroke; stroke-width: 0px; stroke-opacity: 0; fill: rgb(51, 24, 221); transform-origin: 32.664px 27.782px 0px;" transform="matrix(-0.499999, -0.866026, 0.866026, -0.499999, -21.003738, 0.583975)" d="M 32.664 17.782 H 32.664 L 33.664 18.782 V 36.782 L 32.664 37.782 H 32.664 L 31.664 36.782 V 18.782 L 32.664 17.782 Z" bx:shape="rect 31.664 17.782 2 20 1 1 1 2@6e5996d1" id="object-3"/>
+  <ellipse style="stroke: rgb(0, 0, 0); paint-order: stroke;" cx="19.5" cy="23.5" rx="2" ry="2" id="object-4"/>
+</svg>
